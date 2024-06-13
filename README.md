@@ -12,7 +12,7 @@ Welcome to my project! Here are some images from our recent work:
 
 ## Project Photos
 
-![ferquency map](https://github.com/kartik912/bird-audio-classification/tree/main/photos/Capture.PNG)
+![ferquency map](https://github.com/kartik912/bird-audio-classification/blob/main/photos/Capture.PNG)
 ![model structure](https://github.com/kartik912/bird-audio-classification/blob/main/photos/WhatsApp%20Image%202024-01-25%20at%203.20.53%20PM.jpeg)
 ![negative spectrogram](https://github.com/kartik912/bird-audio-classification/blob/main/photos/neg0.PNG)
 ![positive spectrogram](https://github.com/kartik912/bird-audio-classification/blob/main/photos/pos0.PNG)
